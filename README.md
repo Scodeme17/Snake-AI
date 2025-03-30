@@ -2,7 +2,7 @@
 
 A Python implementation of the classic Snake game that trains a neural network using genetic algorithms to play autonomously.
 
-![Snake AI in Action](screenshot.png)
+![Snake AI in Action](snake_game.gif)
 
 ## 🌟 Features
 
